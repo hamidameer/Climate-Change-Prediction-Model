@@ -28,17 +28,6 @@ The **Random Forest Regressor** achieved the best overall performance on the hel
 
 The model selection and analysis also examine feature importance and prediction behavior over time.
 
-## Repository Structure
-
-```text
-├── notebooks/      # Data preprocessing and model development
-├── figures/        # Analysis and model result visualizations
-├── reports/        # Detailed project report
-├── data/           # Dataset information and instructions
-├── src/            # Project source-code structure
-├── requirements.txt
-└── README.md
-```
 
 ## Data
 
